@@ -59,13 +59,6 @@ I’m a full-stack web developer with a deep focus on backend engineering. I wor
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![Zod](https://img.shields.io/badge/-Zod-3178C6?style=for-the-badge&logo=zod&logoColor=fff)
 
-
----
-### 📊 GitHub Stats  
-
-![Arham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArhamButt011&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamButt011&layout=compact&theme=react)
-
 ### 🎯 Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.”
 
